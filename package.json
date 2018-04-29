@@ -1,20 +1,20 @@
 {
-  "name": "vuejs-poster-shop",
-  "version": "1.1.0",
+  "name": "vuejs-poster-shop-lorenzo",
+  "version": "0.0.1",
   "description": "Ultimate Vue.js Developers Course - Vue.js Poster Shop",
   "main": "index.js",
   "scripts": {
     "start": "nodemon ./index.js --ignore node_modules/ -e js,html,css"
   },
-  "author": "Anthony Gore <anthony@vuejsdevelopers.com>",
-  "repository" : {
+  "author": "Lorenzo Beltrame <lorenzo.beltrame@gmail.com>",
+  "repository": {
     "type": "git",
     "url": "https://github.com/vuejsdevelopers/vuejs-poster-shop"
   },
   "engines": {
     "node": ">=6.4"
   },
-  "homepage": "http://vuejs-poster-shop.vuejsdevelopers.com/",
+  "homepage": "http://localhost:3000/",
   "keywords": [
     "vue",
     "vue.js",
